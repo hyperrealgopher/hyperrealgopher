@@ -4,4 +4,4 @@ I've been using Haskell to develop [Waffle](https://github.com/hyperrealgopher/w
 
 Please also see [my gists](https://gist.github.com/hyperrealgopher).
 
-I'll soon have my tor-only gopherhole online.
+Check out my personal gopherhole via Tor: gopher://6pb7ikzn72tzuhg6pdlkogwgo4yslf5r6mvktdjzyssfry2uvzxthpyd.onion
